@@ -1,0 +1,41 @@
+<?php
+
+return [
+    'create_new_area' => 'Create New Area',
+    'close' => 'Close',
+    'create_area_note' => 'Please enter complete area information carefully before creating.',
+    'country' => 'Country',
+    'choose_country' => 'Choose Country',
+    'postal_code' => 'Postal Code',
+    'enter_postal_code' => 'Enter postal code',
+    'area_name' => 'Area Name',
+    'enter_area_name' => 'Enter area name',
+    'area_address' => 'Area Address',
+    'enter_area_address' => 'Enter area address',
+    'cancel' => 'Cancel',
+    'create_area' => 'Create Area',
+
+
+    'delete_area' => 'Delete Area',
+'close' => 'Close',
+'delete_area_confirm_title' => 'Are you sure you want to delete this area?',
+'delete_area_confirm_text' => 'This action will remove the selected area from the system. Please confirm carefully before continuing.',
+'delete_area_note' => 'Deleted area records may affect related address or delivery information.',
+'cancel' => 'Cancel',
+'delete_form_not_found' => 'Delete form not found.',
+'no_area_selected_for_deletion' => 'No area selected for deletion.',
+'update_area_data' => 'Update Area Data',
+'update_area_note' => 'Update area information carefully before saving changes.',
+'update_area' => 'Update Area',
+
+'areas_management' => 'Areas Management',
+'areas_management_description' => 'Manage countries, postal codes, area names, addresses, and delivery locations.',
+'user' => 'User',
+'please_fix_errors' => 'Please fix the following errors:',
+'area_records' => 'Area Records',
+'area_records_description' => 'View, search, export, update, and manage area information.',
+'create_new_area' => 'Create New Area',
+'areas_table' => 'Areas Table',
+'live_data' => 'Live Data',
+'close' => 'Close',
+];
